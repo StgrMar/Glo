@@ -5,5 +5,5 @@ let rollback;
 let fullPrice;
 let adaptive;
 
-alert(Внимание! Спасибо за внимание!);
+alert('Внимание! Спасибо за внимание!');
 console.log('И тут меня нашли')
